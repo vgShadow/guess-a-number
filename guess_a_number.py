@@ -9,9 +9,21 @@ limit = 10
 rand = random.randint(low, high)
 print("I'm thinking of a number from " + str(low) + " to " + str(high) + ".");
 
-guess = -1
+guess = -1, 
 tries = 0
 
+#helper functions
+def get_guess():
+    while True:
+        g = input("Take a guess: ")
+
+        if g.isnumeric():
+            g = int(g)
+            return g
+        else:
+            print("You must enter a number")
+        
+#play the game nerd
 while guess != rand and tries < limit:
     guess = input("Take a guess: ")
     guess = int(guess)

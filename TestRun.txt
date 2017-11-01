@@ -1,0 +1,67 @@
+____ _  _ ____ ____ ____    ____    _  _ _  _ _  _ ___  ____ ____    ____ _
+| __ |  | |___ [__  [__     |__|    |\ | |  | |\/| |__] |___ |__/    |__| |
+|__] |__| |___ ___] ___]    |  |    | \| |__| |  | |__] |___ |  \    |  | |
+
+What is your name?Eric
+
+Make a low value. 1
+
+Make a high value. 10
+
+Think of a number for the comp to guess between 1 and 10 please Eric. I have 4 tries to guess. Press ENTER to continue.3
+
+Was your number 5?
+
+Guess 1 out of 4. Eric please type if it was low/high/correct.high
+
+Was your number 2?
+
+Guess 2 out of 4. Eric please type if it was low/high/correct.low
+
+Was your number 3?
+
+Guess 3 out of 4. Eric please type if it was low/high/correct.correct
+
+I knew it your number was 3
+
+I took a total of 3 gueses.
+
+Would you like to play again? (y/n) y
+What is your name?Eric
+
+Make a low value. 1
+
+Make a high value. 10
+
+Think of a number for the comp to guess between 1 and 10 please Eric. I have 4 tries to guess. Press ENTER to continue.
+
+Was your number 5?
+
+Guess 1 out of 4. Eric please type if it was low/high/correct.low
+
+Was your number 8?
+
+Guess 2 out of 4. Eric please type if it was low/high/correct.low
+
+Was your number 9?
+
+Guess 3 out of 4. Eric please type if it was low/high/correct.low
+
+Was your number 10?
+
+Guess 4 out of 4. Eric please type if it was low/high/correct.correct
+
+I am a BrIcK
+
+Im an actual idiot
+
+Would you like to play again? (y/n) n
+
+This outstanding game was created by Lord and Saviour Eric
+ (                 (      (                       
+ )\ )              )\ )   )\ )      )    )     (  
+(()/(    (    (   (()/(  (()/(   ( /(   (     ))\ 
+ /(_))_  )\   )\   ((_))  /(_))_ )(_))  )\  '/((_) 
+(_)) __|((_) ((_)  _| |  (_)) __((_)_ _((_))(_))   
+  | (_ / _ \/ _ \/ _` |    | (_ / _` | '  \() -_)  
+   \___\___/\___/\__,_|     \___\__,_|_|_|_|\___|  
